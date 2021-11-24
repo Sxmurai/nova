@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nova_client",
+  "name": "Nova",
+  "description": "A 1.8.9 Hypickle client",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Sxmurai/nova",
+  "updateUrl": "https://github.com/Sxmurai/nova",
+  "authorList": ["Sxmurai"],
+  "credits": "me myself an i",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
